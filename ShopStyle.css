@@ -1,0 +1,74 @@
+.content .center .boxes {
+	width: 100%;
+	margin: 20px auto;
+	height: 300px;
+}
+.content .center .boxes .boxbar {
+	width: 90%;
+	margin: -500px 50px;
+	height: 100%;
+}
+.content .center .boxes .boxbar .boxitem {
+	display: inline-flex;
+	width: 200px;
+	height: 100%;
+	margin: 10px 5px;
+	border-radius: 10px;
+	background-color: rgba(0,0,0,0.4);
+	vertical-align: middle;
+	text-align: center;
+}
+.s-titile {
+	display: inline-block;
+	width: 100%;
+	color: #eeeeee;
+	font-family: shabnam;
+	font-size: 45px;
+	margin-top: 5px;
+}
+.s-sub {
+	display: inline-block;
+	width: 100%;
+	color: #eeeeee;
+	font-family: shabnam;
+	font-size: 15px;
+	margin-top: 5px;
+}
+.s-price {
+	margin-top: 100px;
+	color: white;
+}
+.s-btn {
+	transition: all .4s;
+	margin-top: 10px;
+	font-family: shabnam;
+	font-size: 20px;
+	border: 0px;
+	color: white;
+	background: darkgreen;
+	width: 100px;
+	height: 35px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.s-btn:hover {
+	transition: all .4s;
+	background: green;
+}
+.s-btn2 {
+	transition: all .4s;
+	margin-top: 30px;
+	font-family: shabnam;
+	font-size: 20px;
+	border: 0px;
+	color: white;
+	background: #0F7884;
+	width: 250px;
+	height: 50px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.s-btn2:hover {
+	transition: all .4s;
+	background: #0889A0;
+}
